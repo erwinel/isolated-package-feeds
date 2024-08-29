@@ -81,6 +81,6 @@
     "codeQL.cli.executablePath": "C:\\Program Files\\codeql\\codeql.exe",
     "markdown.extension.toc.levels": "2..6",
     "auto-close-tag.disableOnLanguage": [
-        "cs", "ps1", "psm1", "js", "json", "javascript"
+        "csharp", "powershell", "json", "javascript", "markdown"
     ]
 }
